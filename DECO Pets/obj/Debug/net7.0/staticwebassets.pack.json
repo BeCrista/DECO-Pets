@@ -1,0 +1,393 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\DECO Pets.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DECO Pets.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\Images\\Seguradoras\\004abb73-9096-4de4-8294-9a0a5c505ed5.png",
+      "PackagePath": "staticwebassets\\Images\\Seguradoras\\004abb73-9096-4de4-8294-9a0a5c505ed5.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\Images\\Seguradoras\\011ff5b2-c836-4eca-b733-5451c22475ad.png",
+      "PackagePath": "staticwebassets\\Images\\Seguradoras\\011ff5b2-c836-4eca-b733-5451c22475ad.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\Images\\Seguradoras\\032d26f4-70cc-464e-b023-0727bb0bd624.png",
+      "PackagePath": "staticwebassets\\Images\\Seguradoras\\032d26f4-70cc-464e-b023-0727bb0bd624.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\Images\\Seguradoras\\079c3660-632f-45d3-889c-0f9e9dbc1626.png",
+      "PackagePath": "staticwebassets\\Images\\Seguradoras\\079c3660-632f-45d3-889c-0f9e9dbc1626.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\Images\\Seguradoras\\10064e42-4059-4ee3-a062-d81a7019d8e1.png",
+      "PackagePath": "staticwebassets\\Images\\Seguradoras\\10064e42-4059-4ee3-a062-d81a7019d8e1.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\Images\\Seguradoras\\10a84ed5-8a43-4c11-b7a1-238465c7bb2e.png",
+      "PackagePath": "staticwebassets\\Images\\Seguradoras\\10a84ed5-8a43-4c11-b7a1-238465c7bb2e.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\Images\\Seguradoras\\17687fb9-c765-41d8-8e91-9c7d84541c25.png",
+      "PackagePath": "staticwebassets\\Images\\Seguradoras\\17687fb9-c765-41d8-8e91-9c7d84541c25.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\Images\\Seguradoras\\189508d8-ab77-4416-9465-9e6cd02ad0ff.png",
+      "PackagePath": "staticwebassets\\Images\\Seguradoras\\189508d8-ab77-4416-9465-9e6cd02ad0ff.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\Images\\Seguradoras\\2797a9a4-2fd2-452b-8ccb-6566ca31f47e.png",
+      "PackagePath": "staticwebassets\\Images\\Seguradoras\\2797a9a4-2fd2-452b-8ccb-6566ca31f47e.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\Images\\Seguradoras\\387032ee-aff8-4b9c-a59f-94eb87e8f16a.png",
+      "PackagePath": "staticwebassets\\Images\\Seguradoras\\387032ee-aff8-4b9c-a59f-94eb87e8f16a.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\Images\\Seguradoras\\4fc239db-e157-4884-b649-6aa30158af19.png",
+      "PackagePath": "staticwebassets\\Images\\Seguradoras\\4fc239db-e157-4884-b649-6aa30158af19.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\Images\\Seguradoras\\536e801b-fb86-47f7-b61b-722c3064915c.png",
+      "PackagePath": "staticwebassets\\Images\\Seguradoras\\536e801b-fb86-47f7-b61b-722c3064915c.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\Images\\Seguradoras\\68de98e1-51f3-448f-86e8-699949709fae.png",
+      "PackagePath": "staticwebassets\\Images\\Seguradoras\\68de98e1-51f3-448f-86e8-699949709fae.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\Images\\Seguradoras\\87dfe725-f56b-44e9-8873-28c1534ae91f.png",
+      "PackagePath": "staticwebassets\\Images\\Seguradoras\\87dfe725-f56b-44e9-8873-28c1534ae91f.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\Images\\Seguradoras\\921b924d-161e-4521-8c4a-d136754afcf2.png",
+      "PackagePath": "staticwebassets\\Images\\Seguradoras\\921b924d-161e-4521-8c4a-d136754afcf2.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\Images\\Seguradoras\\ac9a99e9-b5f9-44ed-8c4e-21c7b8c09973.png",
+      "PackagePath": "staticwebassets\\Images\\Seguradoras\\ac9a99e9-b5f9-44ed-8c4e-21c7b8c09973.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\Images\\Seguradoras\\b1a4c077-1fcf-4c13-bb94-ac4c2ef512cb.png",
+      "PackagePath": "staticwebassets\\Images\\Seguradoras\\b1a4c077-1fcf-4c13-bb94-ac4c2ef512cb.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\Images\\Seguradoras\\c6e2a66c-91fb-41af-8893-e5e72fe42f4f.png",
+      "PackagePath": "staticwebassets\\Images\\Seguradoras\\c6e2a66c-91fb-41af-8893-e5e72fe42f4f.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\Images\\Seguradoras\\c6f3fe19-4da0-4457-b349-02dd8e9786bb.png",
+      "PackagePath": "staticwebassets\\Images\\Seguradoras\\c6f3fe19-4da0-4457-b349-02dd8e9786bb.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\Images\\Seguradoras\\c883c2ef-cc0b-417a-9f78-6f1616155291.png",
+      "PackagePath": "staticwebassets\\Images\\Seguradoras\\c883c2ef-cc0b-417a-9f78-6f1616155291.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\Images\\Seguradoras\\d58ff125-b360-46ff-8c73-49dc52c6a9b6.png",
+      "PackagePath": "staticwebassets\\Images\\Seguradoras\\d58ff125-b360-46ff-8c73-49dc52c6a9b6.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\Images\\Seguradoras\\d79df60c-5371-441c-ad5b-fc7c26286cbd.png",
+      "PackagePath": "staticwebassets\\Images\\Seguradoras\\d79df60c-5371-441c-ad5b-fc7c26286cbd.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\Images\\Seguradoras\\e1b6da9f-e6c3-41a6-8afb-6a5f6231afaf.png",
+      "PackagePath": "staticwebassets\\Images\\Seguradoras\\e1b6da9f-e6c3-41a6-8afb-6a5f6231afaf.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\Images\\Seguradoras\\e3599c8d-42d7-43c1-8c20-283bbecf2746.png",
+      "PackagePath": "staticwebassets\\Images\\Seguradoras\\e3599c8d-42d7-43c1-8c20-283bbecf2746.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\Images\\Seguradoras\\f08b0af9-c463-44fd-83d2-d2e19020f980.png",
+      "PackagePath": "staticwebassets\\Images\\Seguradoras\\f08b0af9-c463-44fd-83d2-d2e19020f980.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\Images\\Seguradoras\\ffb53e69-fc6e-488a-9a87-34b10725d498.png",
+      "PackagePath": "staticwebassets\\Images\\Seguradoras\\ffb53e69-fc6e-488a-9a87-34b10725d498.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\Images\\decoPets_logo.svg",
+      "PackagePath": "staticwebassets\\Images\\decoPets_logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\css\\styleDetalhes.css",
+      "PackagePath": "staticwebassets\\css\\styleDetalhes.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\css\\styleHomepage.css",
+      "PackagePath": "staticwebassets\\css\\styleHomepage.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\css\\styleResultados.css",
+      "PackagePath": "staticwebassets\\css\\styleResultados.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\js\\homepage.js",
+      "PackagePath": "staticwebassets\\js\\homepage.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\js\\resultados.js",
+      "PackagePath": "staticwebassets\\js\\resultados.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\DECO Pets\\DECO Pets\\DECO Pets\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.DECO Pets.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.DECO Pets.props",
+      "PackagePath": "build\\DECO Pets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.DECO Pets.props",
+      "PackagePath": "buildMultiTargeting\\DECO Pets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.DECO Pets.props",
+      "PackagePath": "buildTransitive\\DECO Pets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

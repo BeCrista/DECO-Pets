@@ -1,0 +1,100 @@
+﻿@page
+@model DECO_Pets.Pages.ResultadosModel
+
+<link rel="stylesheet" href="~/css/styleResultados.css">
+
+@{
+    ViewData["Title"] = "Seguro para animais domésticos!";
+    var recomendada = Model.ViewModel.Premios
+    .OrderByDescending(p => p.Premio) // Ordena por prêmio em ordem decrescente
+    .FirstOrDefault();
+}
+
+<div class="container">
+    <div class="recomendado_wrapper">
+        <h1 class="">Seguradora Recomendada</h1>
+        @if (recomendada != null)
+        {
+            <div class="resultado_item recomendado">
+                <div class="row">
+                    <div class="col-md-4">
+                        <!-- Imagem da seguradora recomendada -->
+                        <img src="@recomendada.Seguradora.ImagemSeguradora" alt="Imagem da Seguradora Recomendada">
+                    </div>
+                    <div class="col-md-8">
+                        <!-- Informações da seguradora recomendada -->
+                        <h2 class="content_title">@recomendada.Seguradora.Nome</h2>
+                        <p>@recomendada.Seguradora.Designacao</p>
+                        <p>@recomendada.Seguradora.Qualidade</p>
+                        <p>Qualidade: @recomendada.Seguradora.QualidadeDesc</p>
+                        <p>Coberturas: @recomendada.Seguradora.Coberturas</p>
+                        <p>Destaque: @recomendada.Seguradora.Destaque</p>
+                    </div>
+                </div>
+                <div class="price_wrapper">
+                    <div class="m-auto m-sm-0 price_box mb-3 mb-sm-0">
+                        <!-- Prêmio da seguradora recomendada -->
+                        <div class="price_desc">Prémio anual</div>
+                        <div class="price">@recomendada.Premio.ToString("C")</div>
+                    </div>
+                </div>
+                <div class="text-center mb-4">
+                    <!-- Botão para detalhes da seguradora recomendada -->
+                    <a class="btn btn-primary" asp-page="/Detalhes" asp-route-id="@recomendada.Seguradora.ID">Detalhes</a>
+                </div>
+            </div>
+        }
+        else
+        {
+            <p>Não há seguradoras recomendadas disponíveis.</p>
+        }
+    </div>
+
+    <div class="resultados mb-5 mt-5 d-flex justify-content-between">
+        <h1 class="">Resultados</h1>
+        <div class="order_wrapper d-flex">
+            <label>Ordenar por:</label>
+            <select class="form-select" id="resultadosOrder">
+                <option>Qualidade</option>
+                <option>Preço</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="row">
+        @foreach (var premio in Model.ViewModel.Premios.OrderByDescending(x => x.Premio).Skip(1))
+        {
+            var premioSeguradora = Model.ViewModel.Premios.FirstOrDefault(p => p.SeguradoraID == premio.ID)?.Premio ?? 0;
+            <div class="col-md-4">
+                <div class="resultado_item">
+                    <!-- Coluna de imagem -->
+                    <div class="image_wrapper">
+                        <img src="@premio.Seguradora.ImagemSeguradora" alt="Imagem da Seguradora">
+                    </div>
+                    <!-- Coluna de informações -->
+                    <div class="content_wrapper">
+                        <h2 class="content_title">@premio.Seguradora.Nome</h2>
+                        <p>@premio.Seguradora.Designacao</p>
+                        <p>@premio.Seguradora.Qualidade</p>
+                        <p>Qualidade: @premio.Seguradora.QualidadeDesc</p>
+                        <p>Coberturas: @premio.Seguradora.Coberturas</p>
+                        <p>Destaque: @premio.Seguradora.Destaque</p>
+                    </div>
+                    <!-- Coluna de prêmio -->
+                    <div class="price_wrapper">
+                        <div class="price_desc">Prémio anual</div>
+                        <div class="price">@premioSeguradora.ToString("C")</div>
+                    </div>
+                    <div class="text-center mb-4">
+                        <!-- Botão para detalhes da seguradora -->
+                        <a class="btn btn-primary" asp-page="/Detalhes" asp-route-id="@premio.ID">Detalhes</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+@section Scripts{
+    <script src="~/js/resultados.js"></script>
+}

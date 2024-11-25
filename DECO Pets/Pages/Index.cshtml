@@ -1,0 +1,71 @@
+﻿@page
+@model DECO_Pets.Pages.IndexModel
+
+<link rel="stylesheet" href="~/css/styleHomepage.css">
+
+
+
+@{
+    ViewData["Title"] = "Seguro para animais domésticos!";
+}
+
+<div class="container">
+    <h1>Bem-vindo ao DECO Pets!</h1>
+    <form id="petForm" class="custom-form" method="post">
+        <div class="form-group">
+            <label asp-for="ViewModels.SpeciesID">Espécie:</label>
+            <select asp-for="ViewModels.SpeciesID" class="form-select" asp-items="ViewBag.SpeciesID">
+                <option value="">Selecionar Espécie</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="ViewModels.RaceID">Raça:</label>
+            <select asp-for="ViewModels.RaceID" class="form-select" asp-items="ViewBag.RaceID">
+                <option value="">Selecionar Raça</option>
+            </select>
+        </div>
+
+        <div class="form-group" id="weightRow" style="display: none;">
+            <label asp-for="ViewModels.WeightID">Peso:</label>
+            <select asp-for="ViewModels.WeightID" class="form-select" asp-items="ViewBag.WeightID">
+                <option value="">Selecionar Peso</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="ViewModels.AgeID">Idade:</label>
+            <select asp-for="ViewModels.AgeID" class="form-select" asp-items="ViewBag.AgeID">
+                <option value="">Selecionar Idade</option>
+            </select>
+        </div>
+        <input type="hidden" id="selectedSpecies" name="selectedSpecies" value="">
+        <input type="hidden" id="selectedRace" name="selectedRace" value="">
+        <input type="hidden" id="selectedWeight" name="selectedWeight" value="">
+        <input type="hidden" id="selectedAge" name="selectedAge" value="">
+        <button type="submit" class="btn btn-primary text-center" asp-page-handler="Simular">Simular</button>
+    </form>
+</div>
+
+<div class="box_wrapper">
+    <div class="ajuda_box_wrapper text-center">
+        <h2 class="box_title">PRECISA DE AJUDA?</h2>
+        <p data-selector="text">Dúvidas e conselhos aqui:</p>
+        <a href="tel:218 418 754" class="box_phone d-block mb-3" data-selector="phone-link">
+            <span class="box_text">Contacte-nos</span>
+            <span class="box_number">
+                218 418 754
+                <i class="icon-phone"></i>
+            </span>
+        </a>
+        <p class="box_hours mb-0">
+            Horário: dias úteis,<br>
+            das 09h00 às 18h00 <br>
+            (chamada para linha fixa nacional)
+        </p>
+    </div>
+</div>
+
+@section Scripts{
+    <script src="~/js/homepage.js"></script>
+}

@@ -1,0 +1,43 @@
+﻿@page
+@model DECO_Pets.Areas.Admin.Pages.PremiosAdmin.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Premios</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Premios.Dados)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Premios.Dados.ID)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Premios.Seguradora)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Premios.Seguradora.Nome)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Premios.Seguradora.Designacao)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Premios.Seguradora.Designacao)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Premios.Premio)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Premios.Premio)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.Premios?.ID">Edit</a> |
+    <a asp-page="./Index">Back to List</a>
+</div>

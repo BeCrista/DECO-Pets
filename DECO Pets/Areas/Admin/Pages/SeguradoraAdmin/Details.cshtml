@@ -1,0 +1,157 @@
+﻿@page
+@model DECO_Pets.Areas.Admin.Pages.SeguradoraAdmin.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Seguradora</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Seguradora.Nome)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Seguradora.Nome)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Seguradora.Designacao)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Seguradora.Designacao)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Seguradora.Qualidade)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Seguradora.Qualidade)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Seguradora.QualidadeDesc)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Seguradora.QualidadeDesc)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Seguradora.Coberturas)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Seguradora.Coberturas)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Seguradora.Destaque)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Seguradora.Destaque)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Seguradora.Observacoes)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Seguradora.Observacoes)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Seguradora.ImagemSeguradora)
+        </dt>
+        <dd class="col-sm-10">
+            <img src="@Model.Seguradora.ImagemSeguradora" alt="Imagem Seguradora" class="img-fluid" style="max-width: 200px;" />
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Seguradora.DateEdicao)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Seguradora.DateEdicao)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.Seguradora.Responsabilidade_Civil_LimiteAnual)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Seguradora.Responsabilidade_Civil_LimiteAnual)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.Seguradora.Responsabilidade_Civil_Franquia)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Seguradora.Responsabilidade_Civil_Franquia)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.Seguradora.Despesas_Veterinarias_LimiteAnual)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Seguradora.Despesas_Veterinarias_LimiteAnual)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.Seguradora.Despesas_Veterinarias_Franquia)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Seguradora.Despesas_Veterinarias_Franquia)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.Seguradora.Vacinas_LimiteAnual)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Seguradora.Vacinas_LimiteAnual)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.Seguradora.Vacinas_Franquia)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Seguradora.Vacinas_Franquia)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.Seguradora.Cirurgia_LimiteAnual)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Seguradora.Cirurgia_LimiteAnual)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.Seguradora.Cirurgia_Franquia)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Seguradora.Cirurgia_Franquia)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.Seguradora.Eutanasia_Funeral_LimiteAnual)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Seguradora.Eutanasia_Funeral_LimiteAnual)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.Seguradora.Eutanasia_Funeral_Franquia)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Seguradora.Eutanasia_Funeral_Franquia)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.Seguradora.Desaparecimento_LimiteAnual)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Seguradora.Desaparecimento_LimiteAnual)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.Seguradora.Desaparecimento_Franquia)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Seguradora.Desaparecimento_Franquia)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.Seguradora.Guarda_LimiteAnual)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Seguradora.Guarda_LimiteAnual)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.Seguradora.Guarda_Franquia)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Seguradora.Guarda_Franquia)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.Seguradora?.ID">Edit</a> |
+    <a asp-page="./Index">Back to List</a>
+</div>

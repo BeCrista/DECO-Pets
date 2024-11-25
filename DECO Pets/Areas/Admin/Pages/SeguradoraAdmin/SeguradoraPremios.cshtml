@@ -1,0 +1,38 @@
+﻿@page
+@model DECO_Pets.Areas.Admin.Pages.SeguradoraAdmin.SeguradoraPremiosModel
+
+@{
+    ViewData["Title"] = "Prêmios da Seguradora";
+}
+
+<h1>Prêmios da Seguradora</h1>
+
+<p>
+    <a asp-page="./Index">Voltar para a Lista de Seguradoras</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Dados
+            </th>
+            <th>
+                Premio
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var premio in Model.seguradorasPremiosViewModel)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => premio.DadosInfo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => premio.Premio)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

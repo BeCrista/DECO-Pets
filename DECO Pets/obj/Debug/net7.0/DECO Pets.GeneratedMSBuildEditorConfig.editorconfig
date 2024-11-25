@@ -1,0 +1,219 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DECO_Pets
+build_property.RootNamespace = DECO_Pets
+build_property.ProjectDir = C:\Users\berna\Downloads\Projetos_Estágio_Bernardo\Projetos_Estágio_Bernardo\Projetos_Estágio_Bernardo\DECO Pets\DECO Pets\DECO Pets\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\berna\Downloads\Projetos_Estágio_Bernardo\Projetos_Estágio_Bernardo\Projetos_Estágio_Bernardo\DECO Pets\DECO Pets\DECO Pets
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Areas/Admin/Pages/AgeAdmin/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcQWdlQWRtaW5cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Areas/Admin/Pages/AgeAdmin/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcQWdlQWRtaW5cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Areas/Admin/Pages/AgeAdmin/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcQWdlQWRtaW5cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Areas/Admin/Pages/AgeAdmin/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcQWdlQWRtaW5cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Areas/Admin/Pages/AgeAdmin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcQWdlQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Areas/Admin/Pages/DadosAdmin/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcRGFkb3NBZG1pblxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Areas/Admin/Pages/DadosAdmin/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcRGFkb3NBZG1pblxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Areas/Admin/Pages/DadosAdmin/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcRGFkb3NBZG1pblxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Areas/Admin/Pages/DadosAdmin/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcRGFkb3NBZG1pblxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Areas/Admin/Pages/DadosAdmin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcRGFkb3NBZG1pblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Areas/Admin/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Areas/Admin/Pages/PremiosAdmin/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcUHJlbWlvc0FkbWluXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Areas/Admin/Pages/PremiosAdmin/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcUHJlbWlvc0FkbWluXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Areas/Admin/Pages/PremiosAdmin/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcUHJlbWlvc0FkbWluXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Areas/Admin/Pages/PremiosAdmin/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcUHJlbWlvc0FkbWluXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Areas/Admin/Pages/PremiosAdmin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcUHJlbWlvc0FkbWluXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Areas/Admin/Pages/RaceAdmin/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcUmFjZUFkbWluXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Areas/Admin/Pages/RaceAdmin/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcUmFjZUFkbWluXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Areas/Admin/Pages/RaceAdmin/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcUmFjZUFkbWluXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Areas/Admin/Pages/RaceAdmin/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcUmFjZUFkbWluXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Areas/Admin/Pages/RaceAdmin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcUmFjZUFkbWluXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Areas/Admin/Pages/SeguradoraAdmin/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcU2VndXJhZG9yYUFkbWluXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Areas/Admin/Pages/SeguradoraAdmin/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcU2VndXJhZG9yYUFkbWluXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Areas/Admin/Pages/SeguradoraAdmin/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcU2VndXJhZG9yYUFkbWluXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Areas/Admin/Pages/SeguradoraAdmin/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcU2VndXJhZG9yYUFkbWluXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Areas/Admin/Pages/SeguradoraAdmin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcU2VndXJhZG9yYUFkbWluXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Areas/Admin/Pages/SeguradoraAdmin/SeguradoraPremios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcU2VndXJhZG9yYUFkbWluXFNlZ3VyYWRvcmFQcmVtaW9zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Areas/Admin/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Areas/Admin/Pages/SpeciesAdmin/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcU3BlY2llc0FkbWluXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Areas/Admin/Pages/SpeciesAdmin/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcU3BlY2llc0FkbWluXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Areas/Admin/Pages/SpeciesAdmin/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcU3BlY2llc0FkbWluXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Areas/Admin/Pages/SpeciesAdmin/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcU3BlY2llc0FkbWluXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Areas/Admin/Pages/SpeciesAdmin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcU3BlY2llc0FkbWluXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Areas/Admin/Pages/WeightAdmin/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcV2VpZ2h0QWRtaW5cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Areas/Admin/Pages/WeightAdmin/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcV2VpZ2h0QWRtaW5cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Areas/Admin/Pages/WeightAdmin/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcV2VpZ2h0QWRtaW5cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Areas/Admin/Pages/WeightAdmin/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcV2VpZ2h0QWRtaW5cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Areas/Admin/Pages/WeightAdmin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcV2VpZ2h0QWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Areas/Admin/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Areas/Admin/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Pages/Detalhes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGV0YWxoZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Pages/Resultados.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzdWx0YWRvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Areas/Admin/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-jj91zi7fkm
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/DECO Pets/DECO Pets/DECO Pets/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-bhmrdyi2fn

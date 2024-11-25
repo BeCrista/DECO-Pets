@@ -1,0 +1,70 @@
+﻿/* Adicione outros estilos conforme necessário */
+.custom-form {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    background-color: #f8f8f8;
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.box_wrapper {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.box_title {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.box_text {
+    font-size: 18px;
+}
+
+.box_number {
+    font-size: 24px;
+}
+
+.box_phone {
+    text-decoration: none;
+    color: #333;
+    transition: color 0.3s;
+}
+
+    .box_phone:hover {
+        color: #007bff;
+    }
+
+.form-control {
+    border-radius: 20px;
+    width: 50%;
+    margin-left: 160px;
+}
+
+.btn {
+    background-color: #0A7DBF;
+    border-color: #0A7DBF;
+    font-weight: bold;
+    padding: 0.375rem 2rem;
+    text-transform: uppercase;
+    margin-top: 20px;
+    margin-left: 40%;
+}
+    
+
+h1 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-family: Lucida Console;
+
+}
+
+label{
+    margin-left: 105px;
+}

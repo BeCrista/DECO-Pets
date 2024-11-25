@@ -1,0 +1,122 @@
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-jj91zi7fkm] {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+}
+
+a[b-jj91zi7fkm] {
+    color: #0077cc;
+}
+
+.btn-primary[b-jj91zi7fkm] {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-jj91zi7fkm], .nav-pills .show > .nav-link[b-jj91zi7fkm] {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.border-top[b-jj91zi7fkm] {
+    border-top: 1px solid #e5e5e5;
+}
+
+.border-bottom[b-jj91zi7fkm] {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-jj91zi7fkm] {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+.navbar[b-jj91zi7fkm] {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: .5rem 1rem;
+}
+
+.navbar-expand-md[b-jj91zi7fkm] {
+    -ms-flex-flow: row nowrap;
+    flex-flow: row nowrap;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+}
+
+.navbar_menu .nav.navbar-nav[b-jj91zi7fkm] {
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.navbar_menu_content[b-jj91zi7fkm] {
+    flex-basis: 100%;
+    flex-grow: 1;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+.justify-content-between[b-jj91zi7fkm] {
+    -ms-flex-pack: justify !important;
+    justify-content: space-between !important;
+}
+
+.navbar-nav[b-jj91zi7fkm] {
+    display: -ms-flexbox;
+    display: flex;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+.nav[b-jj91zi7fkm] {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+.nav-item[b-jj91zi7fkm] {
+    position: relative;
+}
+
+    .nav-item[b-jj91zi7fkm]::after {
+        content: "";
+        display: block;
+        position: absolute;
+        bottom: -5px;
+        left: 0;
+        width: 100%;
+        height: 3px;
+        background-color: #DC143C;
+        opacity: 0;
+        transition: opacity 0.3s;
+    }
+
+    .nav-item:hover[b-jj91zi7fkm]::after {
+        opacity: 1;
+    }
+
+.nav-item[b-jj91zi7fkm] {
+    font-size: 18px;
+    transition: font-size 0.5s;
+}
+
+    .nav-item:hover[b-jj91zi7fkm] {
+        font-size: 22px;
+    }

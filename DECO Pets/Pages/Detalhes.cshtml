@@ -1,0 +1,98 @@
+﻿@page
+@model DECO_Pets.Pages.DetalhesModel
+
+<link rel="stylesheet" href="~/css/styleDetalhes.css">
+
+@{
+    ViewData["Title"] = "Detalhes da Seguradora";
+}
+
+<div class="container">
+    <div class="content_wrapper">
+        <div class="col-md-4">
+            <!-- Coluna de imagem -->
+            <div class="image_wrapper">
+                <img src="@Model.Premios.Seguradora.ImagemSeguradora" alt="Imagem da Seguradora">
+            </div>
+        </div>
+        <div class="col-md-8">
+            <!-- Coluna de informações -->
+            <h2 class="content_title">@Model.Premios.Seguradora.Nome</h2>
+            <p>@Model.Premios.Seguradora.Designacao</p>
+            <p style="font-size:30px;">@Model.Premios.Seguradora.Qualidade</p>
+            <p style="text-transform: uppercase">@Model.Premios.Seguradora.QualidadeDesc</p>
+        </div>
+        <div class="price_wrapper">
+            <!-- Coluna de prêmio -->
+            <div class="price_desc">Prémio anual</div>
+            <div class="price">@Model.Premios.Premio.ToString("C")</div>
+        </div>
+    </div>
+</div>
+
+<div class="detalhes_wrapper">
+    <h3 class="subtitle text-start detalhe_linha">Coberturas</h3>
+
+    <!-- Detalhes de Responsabilidade Civil -->
+    <div class="d-flex justify-content-between detalhe_linha align-items-center">
+        <div>Responsabilidade Civil</div>
+        <div class="d-flex flex-column flex-nowrap">
+            <span><b>Capital:</b> @Model.Premios.Seguradora.Responsabilidade_Civil_LimiteAnual</span>
+            <span><b>Franquia:</b> @Model.Premios.Seguradora.Responsabilidade_Civil_Franquia</span>
+        </div>
+    </div>
+    <!-- Detalhes de Despesas Médicas Veterinárias -->
+    <div class="d-flex justify-content-between detalhe_linha align-items-center">
+        <div>Despesas Médicas Veterinárias</div>
+        <div class="d-flex flex-column flex-nowrap">
+            <span><b>Capital:</b> @Model.Premios.Seguradora.Despesas_Veterinarias_LimiteAnual</span>
+            <span><b>Franquia:</b> @Model.Premios.Seguradora.Despesas_Veterinarias_Franquia</span>
+        </div>
+    </div>
+    <!-- Detalhes de Vacinas -->
+    <div class="d-flex justify-content-between detalhe_linha align-items-center">
+        <div>Vacinas</div>
+        <div class="d-flex flex-column flex-nowrap">
+            <span><b>Capital:</b> @Model.Premios.Seguradora.Vacinas_LimiteAnual</span>
+            <span><b>Franquia:</b> @Model.Premios.Seguradora.Vacinas_Franquia</span>
+        </div>
+    </div>
+    <!-- Detalhes de Cirurgia -->
+    <div class="d-flex justify-content-between detalhe_linha align-items-center">
+        <div>Cirurgia</div>
+        <div class="d-flex flex-column flex-nowrap">
+            <span><b>Capital:</b> @Model.Premios.Seguradora.Cirurgia_LimiteAnual</span>
+            <span><b>Franquia:</b> @Model.Premios.Seguradora.Cirurgia_Franquia</span>
+        </div>
+    </div>
+    <!-- Detalhes de Eutanásia & Funeral -->
+    <div class="d-flex justify-content-between detalhe_linha align-items-center">
+        <div>Eutanásia & Funeral</div>
+        <div class="d-flex flex-column flex-nowrap">
+            <span><b>Capital:</b> @Model.Premios.Seguradora.Eutanasia_Funeral_LimiteAnual</span>
+            <span><b>Franquia:</b> @Model.Premios.Seguradora.Eutanasia_Funeral_Franquia</span>
+        </div>
+    </div>
+    <!-- Detalhes de Desaparecimento -->
+    <div class="d-flex justify-content-between detalhe_linha align-items-center">
+        <div>Desaparecimento</div>
+        <div class="d-flex flex-column flex-nowrap">
+            <span><b>Capital:</b> @Model.Premios.Seguradora.Desaparecimento_LimiteAnual</span>
+            <span><b>Franquia:</b> @Model.Premios.Seguradora.Desaparecimento_Franquia</span>
+        </div>
+    </div>
+    <!-- Detalhes de Guarda em Canil ou Gatil -->
+    <div class="d-flex justify-content-between detalhe_linha align-items-center">
+        <div>Guarda em Canil ou Gatil</div>
+        <div class="d-flex flex-column flex-nowrap">
+            <span><b>Capital:</b> @Model.Premios.Seguradora.Guarda_LimiteAnual</span>
+            <span><b>Franquia:</b> @Model.Premios.Seguradora.Guarda_Franquia</span>
+        </div>
+    </div>
+    <div class="d-flex justify-content-between detalhe_linha align-items-center">
+        <div>Observações</div>
+        <div class="d-flex flex-column flex-nowrap">
+            <span>@Model.Premios.Seguradora.Observacoes</span>
+        </div>
+    </div>
+ </div>

@@ -1,0 +1,92 @@
+﻿@page
+@model DECO_Pets.Areas.Admin.Pages.DadosAdmin.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Dados</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Dados.SpeciesID" class="control-label"></label>
+                <select asp-for="Dados.SpeciesID" class ="form-control" asp-items="ViewBag.SpeciesID">
+                    <option value="">Selecionar Espécie</option>
+                </select>
+            </div>
+            <div class="form-group" id="RaceRow">
+                <label asp-for="Dados.RaceID" class="control-label"></label>
+                <select asp-for="Dados.RaceID" class="form-control" asp-items="ViewBag.RaceID">
+                    <option value="">Selecionar Raça</option>
+                </select>
+            </div>
+
+            <div class="form-group" id="WeightRow">
+                <label asp-for="Dados.WeightID" class="control-label"></label>
+                <select asp-for="Dados.WeightID" class="form-control" asp-items="ViewBag.WeightID">
+                    <option value ="">Selecionar Peso</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Dados.AgeID" class="control-label"></label>
+                <select asp-for="Dados.AgeID" class ="form-control" asp-items="ViewBag.AgeID">
+                    <option value="">Selecionar Idade</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+    <script>
+        $(document).ready(function () {
+            $("#Dados_SpeciesID").change(function () {
+                var selectedSpecies = $(this).val();
+
+                $.get(`/Admin/DadosAdmin/Create?handler=RacesBySpecies&speciesId=${selectedSpecies}`, function (data) {
+                    var raceSelect = $("#Dados_RaceID");
+                    raceSelect.empty();
+
+                    $.each(data, function (index, item) {
+                        raceSelect.append($('<option>', {
+                            value: item.id,
+                            text: item.dogRaces || item.catRaces
+                        }));
+                    });
+
+                    // Trigger change event to update WeightRow visibility
+                    $("#Dados_RaceID").change();
+                });
+            });
+
+            $("#Dados_RaceID").change(function () {
+                var selectedRace = $(this).val();
+                var selectedSpecies = $("#Dados_SpeciesID").val();
+
+                if (selectedRace === "1") { // Sem raça definida
+                    $("#WeightRow").show();
+                } else {
+                    $("#WeightRow").hide();
+                }
+            });
+        });
+    </script>
+}
+
+

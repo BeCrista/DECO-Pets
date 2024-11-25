@@ -1,0 +1,169 @@
+﻿@page
+@model DECO_Pets.Areas.Admin.Pages.SeguradoraAdmin.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Seguradora[0].Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Seguradora[0].Designacao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Seguradora[0].Qualidade)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Seguradora[0].QualidadeDesc)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Seguradora[0].Coberturas)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Seguradora[0].Destaque)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Seguradora[0].Observacoes)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Seguradora[0].ImagemSeguradora)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Seguradora[0].DateEdicao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Seguradora[0].Responsabilidade_Civil_LimiteAnual)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Seguradora[0].Responsabilidade_Civil_Franquia)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Seguradora[0].Despesas_Veterinarias_LimiteAnual)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Seguradora[0].Despesas_Veterinarias_Franquia)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Seguradora[0].Vacinas_LimiteAnual)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Seguradora[0].Vacinas_Franquia)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Seguradora[0].Cirurgia_LimiteAnual)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Seguradora[0].Cirurgia_Franquia)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Seguradora[0].Eutanasia_Funeral_LimiteAnual)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Seguradora[0].Eutanasia_Funeral_Franquia)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Seguradora[0].Desaparecimento_LimiteAnual)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Seguradora[0].Desaparecimento_Franquia)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Seguradora[0].Guarda_LimiteAnual)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Seguradora[0].Guarda_Franquia)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Seguradora) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Designacao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Qualidade)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.QualidadeDesc)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Coberturas)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Destaque)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Observacoes)
+            </td>
+            <td>
+                <img src="@item.ImagemSeguradora" alt="ImagemSeguradora" class="img-fluid" style="max-width: 200px;" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateEdicao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Responsabilidade_Civil_LimiteAnual)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Responsabilidade_Civil_Franquia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Despesas_Veterinarias_LimiteAnual)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Despesas_Veterinarias_Franquia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Vacinas_LimiteAnual)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Vacinas_Franquia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cirurgia_LimiteAnual)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cirurgia_Franquia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Eutanasia_Funeral_LimiteAnual)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Eutanasia_Funeral_Franquia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Desaparecimento_LimiteAnual)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Desaparecimento_Franquia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Guarda_LimiteAnual)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Guarda_Franquia)
+            </td>
+            <td>
+                <a asp-page="./SeguradoraPremios" asp-route-id="@item.ID">Ver Prêmios</a> |
+                <a asp-page="./Edit" asp-route-id="@item.ID">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.ID">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.ID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

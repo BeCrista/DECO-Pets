@@ -1,0 +1,64 @@
+﻿@page
+@model DECO_Pets.Areas.Admin.Pages.DadosAdmin.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Dados[0].Species)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Dados[0].Race)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Dados[0].Weight)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Dados[0].Age)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Dados) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Species.NameSpecies)
+            </td>
+            <td>
+                    @if (item.Species.NameSpecies == "Cão")
+                    {
+                        @Html.DisplayFor(modelItem => item.Race.Descricao)
+                    }else{
+                        @Html.DisplayFor(modelItem => item.Race.Descricao)
+                    }
+            </td>
+            <td>
+                @if(@item.WeightID == null){
+                    @Html.Raw("")
+                }
+                else{
+                    @Html.DisplayFor(modelItem => item.Weight.WeightDescription)
+                }
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Age.AgeDescription)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.ID">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.ID">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.ID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

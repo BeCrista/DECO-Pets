@@ -1,0 +1,143 @@
+﻿@page
+@model DECO_Pets.Areas.Admin.Pages.SeguradoraAdmin.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Seguradora</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Seguradora.Nome" class="control-label"></label>
+                <input asp-for="Seguradora.Nome" class="form-control" />
+                <span asp-validation-for="Seguradora.Nome" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Seguradora.Designacao" class="control-label"></label>
+                <input asp-for="Seguradora.Designacao" class="form-control" />
+                <span asp-validation-for="Seguradora.Designacao" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Seguradora.Qualidade" class="control-label"></label>
+                <input asp-for="Seguradora.Qualidade" class="form-control" />
+                <span asp-validation-for="Seguradora.Qualidade" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Seguradora.QualidadeDesc" class="control-label"></label>
+                <input asp-for="Seguradora.QualidadeDesc" class="form-control" />
+                <span asp-validation-for="Seguradora.QualidadeDesc" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Seguradora.Coberturas" class="control-label"></label>
+                <input asp-for="Seguradora.Coberturas" class="form-control" />
+                <span asp-validation-for="Seguradora.Coberturas" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Seguradora.Destaque" class="control-label"></label>
+                <input asp-for="Seguradora.Destaque" class="form-control" />
+                <span asp-validation-for="Seguradora.Destaque" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Seguradora.Observacoes" class="control-label"></label>
+                <input asp-for="Seguradora.Observacoes" class="form-control" />
+                <span asp-validation-for="Seguradora.Observacoes" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Seguradora.ImagemSeguradora" class="control-label"></label>
+                <input type="file" name="ImageFile" class="form-control file" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Seguradora.DateEdicao" class="control-label"></label>
+                <input asp-for="Seguradora.DateEdicao" class="form-control" />
+                <span asp-validation-for="Seguradora.DateEdicao" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Seguradora.Responsabilidade_Civil_LimiteAnual" class="control-label"></label>
+                <input asp-for="Seguradora.Responsabilidade_Civil_LimiteAnual" class="form-control" />
+                <span asp-validation-for="Seguradora.Responsabilidade_Civil_LimiteAnual" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Seguradora.Responsabilidade_Civil_Franquia" class="control-label"></label>
+                <input asp-for="Seguradora.Responsabilidade_Civil_Franquia" class="form-control" />
+                <span asp-validation-for="Seguradora.Responsabilidade_Civil_Franquia" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Seguradora.Despesas_Veterinarias_LimiteAnual" class="control-label"></label>
+                <input asp-for="Seguradora.Despesas_Veterinarias_LimiteAnual" class="form-control" />
+                <span asp-validation-for="Seguradora.Despesas_Veterinarias_LimiteAnual" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Seguradora.Despesas_Veterinarias_Franquia" class="control-label"></label>
+                <input asp-for="Seguradora.Despesas_Veterinarias_Franquia" class="form-control" />
+                <span asp-validation-for="Seguradora.Despesas_Veterinarias_Franquia" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Seguradora.Vacinas_LimiteAnual" class="control-label"></label>
+                <input asp-for="Seguradora.Vacinas_LimiteAnual" class="form-control" />
+                <span asp-validation-for="Seguradora.Vacinas_LimiteAnual" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Seguradora.Vacinas_Franquia" class="control-label"></label>
+                <input asp-for="Seguradora.Vacinas_Franquia" class="form-control" />
+                <span asp-validation-for="Seguradora.Vacinas_Franquia" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Seguradora.Cirurgia_LimiteAnual" class="control-label"></label>
+                <input asp-for="Seguradora.Cirurgia_LimiteAnual" class="form-control" />
+                <span asp-validation-for="Seguradora.Cirurgia_LimiteAnual" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Seguradora.Cirurgia_Franquia" class="control-label"></label>
+                <input asp-for="Seguradora.Cirurgia_Franquia" class="form-control" />
+                <span asp-validation-for="Seguradora.Cirurgia_Franquia" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Seguradora.Eutanasia_Funeral_LimiteAnual" class="control-label"></label>
+                <input asp-for="Seguradora.Eutanasia_Funeral_LimiteAnual" class="form-control" />
+                <span asp-validation-for="Seguradora.Eutanasia_Funeral_LimiteAnual" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Seguradora.Eutanasia_Funeral_Franquia" class="control-label"></label>
+                <input asp-for="Seguradora.Eutanasia_Funeral_Franquia" class="form-control" />
+                <span asp-validation-for="Seguradora.Eutanasia_Funeral_Franquia" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Seguradora.Desaparecimento_LimiteAnual" class="control-label"></label>
+                <input asp-for="Seguradora.Desaparecimento_LimiteAnual" class="form-control" />
+                <span asp-validation-for="Seguradora.Desaparecimento_LimiteAnual" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Seguradora.Desaparecimento_Franquia" class="control-label"></label>
+                <input asp-for="Seguradora.Desaparecimento_Franquia" class="form-control" />
+                <span asp-validation-for="Seguradora.Desaparecimento_Franquia" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Seguradora.Guarda_LimiteAnual" class="control-label"></label>
+                <input asp-for="Seguradora.Guarda_LimiteAnual" class="form-control" />
+                <span asp-validation-for="Seguradora.Guarda_LimiteAnual" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Seguradora.Guarda_Franquia" class="control-label"></label>
+                <input asp-for="Seguradora.Guarda_Franquia" class="form-control" />
+                <span asp-validation-for="Seguradora.Guarda_Franquia" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
